@@ -1,0 +1,15 @@
+{
+    "name": "@react-packages/commitlint-config-react",
+    "version": "1.0.0",
+    "main": "index.js",
+    "module": "index.js",
+    "type": "module",
+    "keywords": [],
+    "author": "commitlint",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@commitlint/cli": "20.5.0",
+        "@commitlint/config-conventional": "20.5.0"
+    }
+}
